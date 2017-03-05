@@ -26,7 +26,12 @@ if (x = "scala")
 		}
 	}
 
-OG <3 Leslie
+string OG = “GrandMaster”;
+if (Leslie !<3 OG) {
+
+OG = “Paladins Forever”;
+
+}
 
 
 ******************
