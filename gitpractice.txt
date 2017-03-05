@@ -8,7 +8,6 @@ Michael Type here
 
 cout << “Hello World” << endl;
 
-
 ******************
 
 ShaunType here
@@ -27,13 +26,15 @@ if (x = "scala")
 		}
 	}
 
+OG <3 Leslie
+
 
 ******************
 
 Kristen Type here
 ******************
 
-
+something
 
 
 ******************
@@ -41,9 +42,9 @@ Kristen Type here
 JoeType here
 ******************
 
-asdfawefawedasdfasdfasdfasdf
-ASDfasdf
-Asdf
+Hhere is woienfav;oweinfao;weiddfjawpe
+
+Beah! 
 
 ******************
 
