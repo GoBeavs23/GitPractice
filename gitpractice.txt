@@ -1,4 +1,4 @@
-﻿/******************
+/******************
 *GitPractice
 *******************/
 
@@ -8,13 +8,14 @@ Michael Type here
 
 cout << “Hello World” << endl;
 
-
 ******************
 
 ShaunType here
 ******************
 
 scala
+
+OG <3 Leslie
 
 
 ******************
@@ -31,6 +32,8 @@ JoeType here
 ******************
 
 Hhere is woienfav;oweinfao;weiddfjawpe
+
+Beah! 
 
 ******************
 
