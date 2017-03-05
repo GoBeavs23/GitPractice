@@ -14,7 +14,18 @@ cout << “Hello World” << endl;
 ShaunType here
 ******************
 
-scala
+string x = "scala";
+cout << x;
+if (x = "scala")
+	{
+	x = "is"
+	cout << x;
+		if(x = "is")
+		{
+		x = "cool"
+		cout << x << endl;
+		}
+	}
 
 
 ******************
