@@ -1,4 +1,4 @@
-/******************
+﻿/******************
 *GitPractice
 *******************/
 
@@ -31,9 +31,7 @@ Kristen Type here
 JoeType here
 ******************
 
-asdfawefawedasdfasdfasdfasdf
-ASDfasdf
-Asdf
+Hhere is the new 
 
 ******************
 
